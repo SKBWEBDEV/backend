@@ -1,0 +1,24 @@
+# Dependencies
+/node_modules
+/jspm_packages
+
+# Optional npm cache files
+.npm
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Environment files
+.env
+.env.test
+
+# Diagnostic reports (https://nodejs.org)
+*.rpt
+
+# TypeScript cache files
+.tsbuildinfo
+
+# Compiled output
+/dist
+/build
